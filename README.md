@@ -1,0 +1,1 @@
+# Display Detective cases\n\nPublic bug reports sent from the Display Detective app and website.
